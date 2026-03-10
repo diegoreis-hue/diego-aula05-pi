@@ -68,3 +68,6 @@ Após a aprovação do Pull Request, as mudanças passam a fazer parte oficialme
 È bom evitar:"aaaa", "teste", "ok".
 
 Esta alteração foi feita em uma branch separada.
+
+![Criação do branch](3f4a9017-6be8-422b-9397-c9be6cb93421.jpg)
+
