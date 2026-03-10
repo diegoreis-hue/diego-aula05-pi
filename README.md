@@ -66,3 +66,5 @@ Ele permite revisão antes da junção final.
 O Merge é a junção das alterações de uma branch com a branch principal.
 Após a aprovação do Pull Request, as mudanças passam a fazer parte oficialmente do projeto.
 È bom evitar:"aaaa", "teste", "ok".
+
+Esta alteração foi feita em uma branch separada.
