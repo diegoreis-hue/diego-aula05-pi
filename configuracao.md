@@ -45,9 +45,9 @@ depois usamos de novo o django-admin --version para ver a versão. o resultado f
 criação da estrutura do projeto django:
 
 
-(venv) C:\Users\202410210006\Documents\django_aulas>django-admin startproject diego
+(venv) C:\Users\202410210006\Documents\django_aulas>django-admin startproject reis
 
-(venv) C:\Users\202410210006\Documents\django_aulas>cd diego
+(venv) C:\Users\202410210006\Documents\django_aulas>cd reis
 
 criamos um projeto e damos um nome a ele. e depois entramos no nosso projeto  
 
